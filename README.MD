@@ -45,7 +45,7 @@ DreamGetaways/
 
 ## 🖥️ Proje Önizleme
 
-![Önizleme](https://semanurakts.github.io/LandingPage/landingpage.html)
+[Önizleme](https://semanurakts.github.io/LandingPage/landingpage.html)
 
 > 📝 Not: Proje yüklenemediği durumda, projeyi yerel olarak açarak `landingpage.html` üzerinden önizleme yapabilirsiniz.
 
