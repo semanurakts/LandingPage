@@ -31,7 +31,7 @@ Bu proje, HTML ve CSS kullanılarak geliştiren basit ama etkileyici bir "tatil 
 ```
 DreamGetaways/
 │
-├── index.html (Ana HTML dosyası)            
+├── landingpage.html (Ana HTML dosyası)            
 ├── landingpage.css (Stil dosyası)       
 ├── antalya.jpg (Antalya görseli)
 ├── kapadokya.jpg (Kapadokya görseli)
@@ -45,9 +45,9 @@ DreamGetaways/
 
 ## 🖥️ Proje Önizleme
 
-![Önizleme]()
+![Önizleme](https://semanurakts.github.io/LandingPage/landingpage.html)
 
-> 📝 Not: Proje yüklenemediği durumda, projeyi yerel olarak açarak `index.html` üzerinden önizleme yapabilirsiniz.
+> 📝 Not: Proje yüklenemediği durumda, projeyi yerel olarak açarak `landingpage.html` üzerinden önizleme yapabilirsiniz.
 
 ---
 
@@ -57,8 +57,8 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için:
 
 1. Bu repoyu klonlayın veya ZIP olarak indirin:
    ```bash
-   git clone https://github.com/semanurakts/DreamGetaways.git
-2. Klasörü açın ve `index.html` dosyasını tarayıcıda çalıştırın.
+   git clone https://github.com/semanurakts/LandingPage.git
+2. Klasörü açın ve `landingpage.html` dosyasını tarayıcıda çalıştırın.
 3. `index.html` dosyasını tarayıcıda açarak projeyi görüntüleyin.
 
 ---
