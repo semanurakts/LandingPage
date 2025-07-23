@@ -59,7 +59,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için:
    ```bash
    git clone https://github.com/semanurakts/LandingPage.git
 2. Klasörü açın ve `landingpage.html` dosyasını tarayıcıda çalıştırın.
-3. `index.html` dosyasını tarayıcıda açarak projeyi görüntüleyin.
+3. `landingpage.html` dosyasını tarayıcıda açarak projeyi görüntüleyin.
 
 ---
 
