@@ -29,7 +29,7 @@ Bu proje, HTML ve CSS kullanılarak geliştiren basit ama etkileyici bir "tatil 
 ## 📁 Proje Dosya Yapısı
 
 ```
-DreamGetaways/
+Landing Page/
 │
 ├── landingpage.html (Ana HTML dosyası)            
 ├── landingpage.css (Stil dosyası)       
